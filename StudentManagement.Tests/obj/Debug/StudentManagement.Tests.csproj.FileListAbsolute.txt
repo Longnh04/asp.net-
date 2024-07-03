@@ -1,0 +1,2 @@
+D:\C#\C# console\Application 4902\StudentManagement.Tests\StudentManagement.Tests\obj\Debug\StudentManagement.Tests.csproj.AssemblyReference.cache
+D:\C#\C# console\Application 4902\StudentManagement.Tests\StudentManagement.Tests\obj\Debug\StudentManagement.Tests.csproj.CoreCompileInputs.cache

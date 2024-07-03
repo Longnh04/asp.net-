@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|d:\\c#\\c# console\\application 4902\\studentmanagement.tests\\studentmanagement.tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|solutionrelative:studentmanagement.tests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|d:\\c#\\c# console\\application 4902\\studentmanagement.tests\\studentmanagement.tests\\src\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|solutionrelative:studentmanagement.tests\\src\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|d:\\c#\\c# console\\application 4902\\studentmanagement.tests\\studentmanagement.tests\\src\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|solutionrelative:studentmanagement.tests\\src\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|d:\\c#\\c# console\\application 4902\\studentmanagement.tests\\studentmanagement.tests\\src\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE99D2A9-A63E-4373-A2EB-AA0011FD13CD}|StudentManagement.Tests\\StudentManagement.Tests.csproj|solutionrelative:studentmanagement.tests\\src\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Tests\\StudentServiceTests.cs",
+              "ToolTip": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\StudentServiceTests.cs",
+              "RelativeToolTip": "StudentManagement.Tests\\StudentServiceTests.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAkwHoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:50:01.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\src\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Tests\\src\\StudentService.cs",
+              "ToolTip": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\src\\StudentService.cs",
+              "RelativeToolTip": "StudentManagement.Tests\\src\\StudentService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:39:38.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\src\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Tests\\src\\SchoolContext.cs",
+              "ToolTip": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\src\\SchoolContext.cs",
+              "RelativeToolTip": "StudentManagement.Tests\\src\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:38:08.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\src\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Tests\\src\\Student.cs",
+              "ToolTip": "D:\\C#\\C# console\\Application 4902\\StudentManagement.Tests\\StudentManagement.Tests\\src\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Tests\\src\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T05:37:36.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
